@@ -22,12 +22,13 @@ This repository contains projects completed as part of the **Code Alpha** progra
 
 3.Open the Jupyter notebooks or Python scripts to view and run the analyses.
 
-##Technologies Used
+## Technologies Used
   - Python (pandas, numpy, matplotlib, seaborn)
 
   -Jupyter Notebook
 
   - CSV data files for analysis
+  - 
 ## Folder Structure
    codealpha_tasks/
 ├── Sales predictions/
